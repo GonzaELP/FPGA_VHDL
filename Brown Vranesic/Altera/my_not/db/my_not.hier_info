@@ -1,0 +1,5 @@
+|my_not
+input => not_result.DATAIN
+not_result <= input.DB_MAX_OUTPUT_PORT_TYPE
+
+

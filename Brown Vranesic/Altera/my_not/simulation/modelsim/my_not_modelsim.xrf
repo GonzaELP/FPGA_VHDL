@@ -1,0 +1,11 @@
+vendor_name = ModelSim
+source_file = 1, C:/Users/Gonzalo de Brito/Desktop/Digital Design/Brown Vranesic/Altera/my_not.vhd
+source_file = 1, C:/Users/Gonzalo de Brito/Desktop/Digital Design/Brown Vranesic/Altera/my_not_tb.vhd
+source_file = 1, C:/Users/Gonzalo de Brito/Desktop/Digital Design/Brown Vranesic/Altera/db/my_not.cbx.xml
+source_file = 1, c:/altera/13.0sp1/quartus/libraries/vhdl/ieee/prmtvs_b.vhd
+source_file = 1, c:/altera/13.0sp1/quartus/libraries/vhdl/ieee/prmtvs_p.vhd
+source_file = 1, c:/altera/13.0sp1/quartus/libraries/vhdl/ieee/timing_b.vhd
+source_file = 1, c:/altera/13.0sp1/quartus/libraries/vhdl/ieee/timing_p.vhd
+design_name = my_not
+instance = comp, \input~I\, input, my_not, 1
+instance = comp, \not_result~I\, not_result, my_not, 1
