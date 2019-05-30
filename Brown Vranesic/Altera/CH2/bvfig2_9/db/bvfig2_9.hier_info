@@ -1,0 +1,7 @@
+|bvfig2_9
+x1 => salida.IN0
+x2 => salida.IN1
+x3 => salida.IN1
+y <= salida.DB_MAX_OUTPUT_PORT_TYPE
+
+

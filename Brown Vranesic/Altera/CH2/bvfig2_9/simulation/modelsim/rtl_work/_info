@@ -1,0 +1,75 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\Gonzalo de Brito\Desktop\Digital Design\Brown Vranesic\Altera\CH2\bvfig2_9\simulation\modelsim
+Ebvfig2_9
+Z1 w1559180302
+Z2 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z3 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z4 dC:\Users\Gonzalo de Brito\Desktop\Digital Design\Brown Vranesic\Altera\CH2\bvfig2_9\simulation\modelsim
+Z5 8C:/Users/Gonzalo de Brito/Desktop/Digital Design/Brown Vranesic/Altera/CH2/bvfig2_9/bvfig2_9.vhd
+Z6 FC:/Users/Gonzalo de Brito/Desktop/Digital Design/Brown Vranesic/Altera/CH2/bvfig2_9/bvfig2_9.vhd
+l0
+L4
+V4@PBBc@o<kGOjNoCa1V_I0
+Z7 OV;C;10.1d;51
+31
+Z8 !s108 1559181014.575000
+Z9 !s90 -reportprogress|300|-93|-work|work|C:/Users/Gonzalo de Brito/Desktop/Digital Design/Brown Vranesic/Altera/CH2/bvfig2_9/bvfig2_9.vhd|
+Z10 !s107 C:/Users/Gonzalo de Brito/Desktop/Digital Design/Brown Vranesic/Altera/CH2/bvfig2_9/bvfig2_9.vhd|
+Z11 o-93 -work work -O0
+Z12 tExplicit 1
+!s100 ZPL:^VI?<CQ^JAfO]EN2o3
+!i10b 1
+Abehav
+R2
+R3
+DEx4 work 8 bvfig2_9 0 22 4@PBBc@o<kGOjNoCa1V_I0
+l15
+L13
+VYI3BA;AFM1J1AE;foolPM2
+R7
+31
+R8
+R9
+R10
+R11
+R12
+!s100 j^g0MoFniGh4`Fi=LBN[g3
+!i10b 1
+Ebvfig2_9_tb
+Z13 w1559180746
+R2
+R3
+R4
+Z14 8C:/Users/Gonzalo de Brito/Desktop/Digital Design/Brown Vranesic/Altera/CH2/bvfig2_9/bvfig2_9_tb.vhd
+Z15 FC:/Users/Gonzalo de Brito/Desktop/Digital Design/Brown Vranesic/Altera/CH2/bvfig2_9/bvfig2_9_tb.vhd
+l0
+L4
+V7zRB6]>h`YfC6`DC[Ng;f3
+!s100 S;VHUIgD0[mdkTazEMEhb0
+R7
+31
+!i10b 1
+Z16 !s108 1559181015.016000
+Z17 !s90 -reportprogress|300|-93|-work|work|C:/Users/Gonzalo de Brito/Desktop/Digital Design/Brown Vranesic/Altera/CH2/bvfig2_9/bvfig2_9_tb.vhd|
+Z18 !s107 C:/Users/Gonzalo de Brito/Desktop/Digital Design/Brown Vranesic/Altera/CH2/bvfig2_9/bvfig2_9_tb.vhd|
+R11
+R12
+Abehave
+R2
+R3
+DEx4 work 11 bvfig2_9_tb 0 22 7zRB6]>h`YfC6`DC[Ng;f3
+l22
+L7
+V6JdjV`VmB>fcX<8hNCH7e0
+!s100 [L34ISmZ=MhRZ5d29a2@80
+R7
+31
+!i10b 1
+R16
+R17
+R18
+R11
+R12

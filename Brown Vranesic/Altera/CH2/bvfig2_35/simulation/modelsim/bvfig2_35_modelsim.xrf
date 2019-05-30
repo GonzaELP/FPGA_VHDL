@@ -1,0 +1,16 @@
+vendor_name = ModelSim
+source_file = 1, C:/Users/Gonzalo de Brito/Desktop/Digital Design/Brown Vranesic/Altera/CH2/bvfig2_35/bvfig2_35.vhd
+source_file = 1, C:/Users/Gonzalo de Brito/Desktop/Digital Design/Brown Vranesic/Altera/CH2/bvfig2_35/db/bvfig2_35.cbx.xml
+source_file = 1, c:/altera/13.0sp1/quartus/libraries/vhdl/ieee/prmtvs_b.vhd
+source_file = 1, c:/altera/13.0sp1/quartus/libraries/vhdl/ieee/prmtvs_p.vhd
+source_file = 1, c:/altera/13.0sp1/quartus/libraries/vhdl/ieee/timing_b.vhd
+source_file = 1, c:/altera/13.0sp1/quartus/libraries/vhdl/ieee/timing_p.vhd
+design_name = bvfig2_35
+instance = comp, \x2~I\, x2, bvfig2_35, 1
+instance = comp, \x3~I\, x3, bvfig2_35, 1
+instance = comp, \x1~I\, x1, bvfig2_35, 1
+instance = comp, \x4~I\, x4, bvfig2_35, 1
+instance = comp, \y1~0\, y1~0, bvfig2_35, 1
+instance = comp, \y2~0\, y2~0, bvfig2_35, 1
+instance = comp, \y1~I\, y1, bvfig2_35, 1
+instance = comp, \y2~I\, y2, bvfig2_35, 1
